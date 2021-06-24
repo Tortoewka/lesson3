@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lesson3</string>
+    <string name="demo_life_cycle">Демонстрация жизненного цикла активити</string>
+</resources>
